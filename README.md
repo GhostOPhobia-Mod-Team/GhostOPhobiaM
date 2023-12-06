@@ -1,2 +1,1 @@
-# GhostOPhobiaM
-GhostOPhobia Mod 
+Yeah, i made this
